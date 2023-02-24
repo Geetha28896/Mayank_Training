@@ -1,0 +1,19 @@
+{
+    "employee": [
+        {
+            "id": 101,
+            "name": "Geetha",
+            "age": 27
+        },
+        {
+            "id": 102,
+            "name": "Pooja",
+            "age": 25
+        },
+        {
+            "id": 103,
+            "name": "Jana",
+            "age": 22
+        }
+    ]
+}

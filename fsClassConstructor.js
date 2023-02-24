@@ -10,7 +10,7 @@ class Employee {
 }
 class EmployeeReader {
   constructor() {
-    this.empList = [];
+    this.empList = []; 
   }
 
   getEmpList(fileName) {

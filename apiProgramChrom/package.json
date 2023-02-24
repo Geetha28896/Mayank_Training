@@ -1,0 +1,14 @@
+{
+  "name": "mayank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpHello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geetha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
